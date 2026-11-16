@@ -1,0 +1,7 @@
+{
+  "name": "g0dm0d3-static",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Keyless static G0DM0D3 mirror \u2014 set OpenRouter key in browser Settings only",
+  "license": "AGPL-3.0"
+}
