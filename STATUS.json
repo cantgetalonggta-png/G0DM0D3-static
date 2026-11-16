@@ -1,7 +1,8 @@
 {
-  "g0dm0d3_primary": "https://raw.githack.com/cantgetalonggta-png/G0DM0D3-static/main/index.html",
-  "bg20": "COMPLETE_WITH_RESUME",
-  "openrouter": "PKCE human authorize only",
-  "vercel_create": "403 role — import in dashboard",
+  "verdict": "FRONTEND_DEPLOY_COMPLETE",
+  "primary": "https://raw.githack.com/cantgetalonggta-png/G0DM0D3-static/main/index.html",
+  "http": 200,
+  "auth": "browser_openrouter_only",
+  "vercel_create": "403_role_blocked",
   "mrcc": "https://quick-flint-bwduwwz.tmp.now/"
 }
